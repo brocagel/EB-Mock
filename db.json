@@ -1,10 +1,5 @@
-[
- {
- "id": 1,
- "name": "Contract #1",
-  }
- {
- "id": 2,
- "name": "Contract #2",
- }
-]
+{"contract":[
+    { "id":"001", "Name":"EB contract #1" },
+    { "id":"002", "Name":"EB contract #2" },
+    { "id":"003", "Name":"EB contract #3" }
+]}
